@@ -1,5 +1,3 @@
-# treasure-hunt
-an interactive treasure hunt game designed for a 15th birthday celebration. Participants can embark on an adventure, solve clues, and collect presents along the way.
 # Treasure Hunt Web App
 
 ## Overview
@@ -58,9 +56,9 @@ The project is organized as follows:
 
 Contributions are welcome! If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
+<!-- ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details. -->
 
 ## Acknowledgements
 
@@ -68,6 +66,6 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 - [Acknowledgement 2]
 - [Acknowledgement 3]
 
-## Contact
+<!-- ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact [Your Name] at [Your Email Address]. -->
